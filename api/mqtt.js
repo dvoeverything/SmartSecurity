@@ -8,11 +8,11 @@ mongoose.connect('mongodb://0.0.0.0:27017/SmartSecurity')
     .catch(err => console.log(err));;
 
 var options = {
-    host: 'b40a03ae72f147f5b6a28c9e14cc8b68.s2.eu.hivemq.cloud',
+    host: 'hostname',
     port: 8883,
     protocol: 'mqtts',
-    username: 'R_ussia',
-    password: 'muchengeti2011'
+    username: 'username',
+    password: 'password'
 }
 
 //initialize the MQTT client
