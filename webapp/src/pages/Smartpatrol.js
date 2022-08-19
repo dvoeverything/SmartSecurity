@@ -5,11 +5,11 @@ import './style.css';
 
 const Smartpatrol = () => {
     var options = {
-        hostname: 'b40a03ae72f147f5b6a28c9e14cc8b68.s2.eu.hivemq.cloud',
+        hostname: 'hostname',
         port: 8884,
         protocol: 'wss',
-        username: 'R_ussia',
-        password: 'muchengeti2011',
+        username: 'username',
+        password: 'password',
         clientId: 'bytr853',
         path: '/mqtt'
     }
