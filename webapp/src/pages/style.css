@@ -1,0 +1,16 @@
+th,
+td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+  background-color: #96D4D4;
+}
+
+table,
+th,
+td {
+  border: 1px solid white;
+  border-collapse: collapse;
+  margin:auto;
+}
